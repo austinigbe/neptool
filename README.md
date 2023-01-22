@@ -1,2 +1,2 @@
 # neptool
-NEP project distribution on geospatial dashboard. This is for information purpuses only
+NEP project distribution on geospatial dashboard. This is for information purpose only
